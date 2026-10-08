@@ -136,6 +136,4 @@ Pass `axis='y'` for a log-scaled y-axis.
 - Keep each figure's outputs in its own `FIGURE_DIR` subdirectory (mkdir with
   `exist_ok=True`), mirroring the pattern already used under
   `analysis/figures/<figure_name>/`.
-- Do not run whole figure notebooks end-to-end via `nbconvert --execute` to
-  verify a change (see project memory) — extract and run the relevant cells
-  as a standalone script instead.
+
