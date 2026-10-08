@@ -1,0 +1,10 @@
+setup.py
+figure_style/__init__.py
+figure_style/axes.py
+figure_style/export.py
+figure_style/panels.py
+figure_style/style.py
+figure_style.egg-info/PKG-INFO
+figure_style.egg-info/SOURCES.txt
+figure_style.egg-info/dependency_links.txt
+figure_style.egg-info/top_level.txt
